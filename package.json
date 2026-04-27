@@ -1,0 +1,12 @@
+{
+  "name": "recruitcrm-job-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright scraper and GitHub Action for publishing RecruitCRM jobs as JSON.",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}
