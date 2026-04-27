@@ -1,11 +1,56 @@
 {
-  "generatedAt": "2026-04-27T23:00:00.000Z",
+  "generatedAt": "2026-04-27T23:45:40.945Z",
   "source": "https://recruitcrm.io/jobs/ArtemusPoint-Jobs",
   "jobs": [
     {
-      "id": "initial-job",
-      "title": "Placeholder Job",
-      "city": "Placeholder City, ST"
+      "id": "17743713131430121117spL",
+      "title": "Senior Millwork Estimator, Long Island, NY - $120k - $165k",
+      "city": "Town of Islip (Islip, NY)"
+    },
+    {
+      "id": "17750857879480121117KEa",
+      "title": "Draftsman - Millwork, Long Island, NY - $110k - 135k + Benefits",
+      "city": "Brentwood (Islip)"
+    },
+    {
+      "id": "17750609246950121117ekR",
+      "title": "Job Captain - Millwork, Long Island, NY - $110k - $140k + Benefits",
+      "city": "Brentwood (Islip)"
+    },
+    {
+      "id": "17726481124820121117GUH",
+      "title": "Chief Estimator - Commercial Interiors, New York, NY | Jupiter, FL - $175k - $210k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17719550354620121117GXg",
+      "title": "Lead Project Manager - Mission Critical Lead | Data Centers, NYC - $200k - 250k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17755134300340131393mKU",
+      "title": "Project Manager, Fit-out / Renovation, NYC, $150k - $225k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17755131403720131393nZc",
+      "title": "Construction Superintendent, INTERIORS, NYC, $150k - $225k",
+      "city": "New York"
+    },
+    {
+      "id": "17744025280160121117aVT",
+      "title": "Chief | Senior Estimator - Healthcare, Westchester, NY - $185k - $220k",
+      "city": "Rye (Rye, NY)"
+    },
+    {
+      "id": "17744018060010121117pXB",
+      "title": "Senior Estimator - Interiors - Owner | Developer, New York, NY - $175k - $220k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17745352894360121117fOa",
+      "title": "Project Manager - Millwork, Long Island, NY - $120k - $160k + Full Benefits",
+      "city": "Brentwood (Islip, NY)"
     }
   ]
 }
