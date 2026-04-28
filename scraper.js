@@ -35,6 +35,11 @@ async function scrapeJobs() {
 
     await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => undefined);
 
+    // Scroll to the bottom to ensure all jobs are rendered, then wait for the
+    // job list to stabilize before reading — RecruitCRM loads jobs asynchronously.
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await page.waitForTimeout(2000);
+
     const jobs = await page.$$eval('a#sTest-jobDetailFileName', (links) => {
       const clean = (value) => String(value || '').replace(/\s+/g, ' ').trim();
 
