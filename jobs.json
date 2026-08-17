@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-08-17T17:06:51.407Z",
+  "generatedAt": "2026-08-17T17:40:03.862Z",
   "source": "https://recruitcrm.io/jobs/ArtemusPoint-Jobs",
   "jobs": [
+    {
+      "id": "17719550354620121117GXg",
+      "title": "Lead Project Manager - Mission Critical Lead | Data Centers, NYC - $200k - 250k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17685172460980121117vDB",
+      "title": "Superintendent - Interiors - Gut renovation - NYC - $110k - $165k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17755131403720131393nZc",
+      "title": "Construction Superintendent, INTERIORS, NYC, $150k - $225k",
+      "city": "New York"
+    },
+    {
+      "id": "17750609246950121117ekR",
+      "title": "Job Captain - Millwork, Long Island, NY - $110k - $140k + Benefits",
+      "city": "Brentwood (Islip)"
+    },
+    {
+      "id": "17750857879480121117KEa",
+      "title": "Draftsman - Millwork, Long Island, NY - $110k - 135k + Benefits",
+      "city": "Brentwood (Islip)"
+    },
+    {
+      "id": "17744025280160121117aVT",
+      "title": "Chief | Senior Estimator - Healthcare, Westchester, NY - $185k - $220k",
+      "city": "Rye (Rye, NY)"
+    },
+    {
+      "id": "17745406289060121117RNy",
+      "title": "Superintendent, Westchester/ Hudson Valley, NY - $135k - 165k",
+      "city": "City of Peekskill (Peekskill, NY)"
+    },
+    {
+      "id": "17726481124820121117GUH",
+      "title": "Chief Estimator - Commercial Interiors, New York, NY | Jupiter, FL - $175k - $210k",
+      "city": "New York (New York, NY)"
+    },
+    {
+      "id": "17821629802770131393bFB",
+      "title": "Director of Construction - Owner | Developer (Retail) - Bergen County, NJ - $160k - $200k",
+      "city": "(Bergen County, New Jersey)"
+    },
+    {
+      "id": "17743713131430121117spL",
+      "title": "Senior Millwork Estimator, Long Island, NY - $120k - $165k",
+      "city": "Town of Islip (Islip, NY)"
+    },
     {
       "id": "17755134300340131393mKU",
       "title": "Senior Project Manager - Interiors, Fit-out / Renovation, NYC, $150k - $225k",
@@ -18,11 +68,6 @@
       "city": "New York (Queens)"
     },
     {
-      "id": "17821629802770131393bFB",
-      "title": "Director of Construction - Owner | Developer (Retail) - Bergen County, NJ - $160k - $200k",
-      "city": "(Bergen County, New Jersey)"
-    },
-    {
       "id": "17779074795260121117jBO",
       "title": "Senior Estimator – Interiors - National GC|CM, New York, NY - $185k - $215k",
       "city": "New York (Manhattan)"
@@ -31,41 +76,6 @@
       "id": "17779071325360121117pmH",
       "title": "Superintendent - Interiors, New York, NY - $165k - $215k",
       "city": "New York (Manhattan)"
-    },
-    {
-      "id": "17750857879480121117KEa",
-      "title": "Draftsman - Millwork, Long Island, NY - $110k - 135k + Benefits",
-      "city": "Brentwood (Islip)"
-    },
-    {
-      "id": "17750609246950121117ekR",
-      "title": "Job Captain - Millwork, Long Island, NY - $110k - $140k + Benefits",
-      "city": "Brentwood (Islip)"
-    },
-    {
-      "id": "17726481124820121117GUH",
-      "title": "Chief Estimator - Commercial Interiors, New York, NY | Jupiter, FL - $175k - $210k",
-      "city": "New York (New York, NY)"
-    },
-    {
-      "id": "17719550354620121117GXg",
-      "title": "Lead Project Manager - Mission Critical Lead | Data Centers, NYC - $200k - 250k",
-      "city": "New York (New York, NY)"
-    },
-    {
-      "id": "17755131403720131393nZc",
-      "title": "Construction Superintendent, INTERIORS, NYC, $150k - $225k",
-      "city": "New York"
-    },
-    {
-      "id": "17744025280160121117aVT",
-      "title": "Chief | Senior Estimator - Healthcare, Westchester, NY - $185k - $220k",
-      "city": "Rye (Rye, NY)"
-    },
-    {
-      "id": "17745406289060121117RNy",
-      "title": "Superintendent, Westchester/ Hudson Valley, NY - $135k - 165k",
-      "city": "City of Peekskill (Peekskill, NY)"
     }
   ]
 }
